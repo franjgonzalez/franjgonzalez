@@ -1,6 +1,7 @@
 # Hi, I'm Fran👋
 
 <!-- AQUÍ VA UN BANNER -->
+<img src="banner-personal-github.png">
 
 ## About me
 - I am a full-stack developer and a tech enthusiast.
